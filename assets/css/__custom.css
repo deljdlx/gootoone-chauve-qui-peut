@@ -1,0 +1,121 @@
+.ftco-section {
+    padding: 1em 0 !important;
+}
+
+.owl-carousel.home-slider .slider-item .slider-text .one-third {
+    width: 100% !important;
+}
+
+
+.ftco-navbar-light {
+    position: relative;
+}
+
+.js-fullheight {
+    background-color:#F0F !important;
+}
+
+
+.actor-carousel {
+    position:relative;
+    margin-bottom: 2rem;
+    overflow: auto;
+}
+
+
+
+
+
+.actor-name {
+    font-weight: 900;
+    box-sizing: border-box;
+    position:absolute;
+    padding: 1rem;
+    text-align: center;
+    bottom:0px;
+    width:100%;
+    background-color: rgba(0,0,0,0.7);
+}
+
+
+.actor-link {
+    cursor: pointer;
+}
+
+
+
+
+.actor-picture {
+
+    min-height: 368px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:50% 0;
+}
+
+
+
+.movie-thumnail {
+    cursor: pointer;
+}
+
+.movie-picture {
+    height: 520px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+}
+
+@media screen and (min-width: 490px) {
+    .movie-picture {
+        height: 780px;    
+    }
+  }
+
+
+.movie-picture h2 {
+    font-size: 5rem;
+    margin-top: 70%;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+
+.movie-values.ftco-counter .text strong {
+    display: inline-block;
+}
+
+.movie-actor img{
+    width:100%;
+}
+
+
+
+.actor-movie {
+    cursor: pointer;
+}
+
+.actor-movie img {
+    width:100%;
+}
+
+
+
+footer {
+    border-top: solid 1px #AAA;
+    font-size: 10px !important;
+}
+
+
+
+#actor-picture img {
+    width: 100%;
+}
+
+
+.movie-thumnail {
+    background-position: 50% 0;
+}
+.actor-thumnail {
+    background-position: 50% 0;
+}
